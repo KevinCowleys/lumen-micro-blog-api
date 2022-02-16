@@ -34,7 +34,7 @@ The following command creates demo data in the DB
 php artisan db:seed
 ```
 
-## Start Rails Server
+## Start Lumen Server
 
 ```
 php artisan serve
